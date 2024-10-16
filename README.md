@@ -51,9 +51,9 @@ in the CMD or Terminal Type;
  
 frida-ps -Uai
 
-this command will show us all the process inside our Phone choose your application Targer Process 
+this command will show us all the process inside our Phone choose your application Target Process 
 
-and make Intercepet JavaScript code to Hook the Open() Function
+and make Intercept JavaScript code to Hook the Open() Function
 
 for the Java Script Code take a look into OpenHook.js in this guide
 
@@ -62,7 +62,6 @@ after that in the terminal:
 frida -U -p your-target-app -l OpenHook.js
 
 you see now every Open() function thats your App try to open your files 
-
 now you will see if some Apps Try to get access to the sensitive
 
 
