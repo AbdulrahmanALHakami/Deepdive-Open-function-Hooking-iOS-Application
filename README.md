@@ -59,7 +59,7 @@ for the Java Script Code take a look into OpenHook.js in this guide
 
 after that in the terminal:
 
-frida -U -n your-target-app -l OpenHook.js
+frida -U -p your-target-app -l OpenHook.js
 
 you see now every Open() function thats your App try to open your files 
 
