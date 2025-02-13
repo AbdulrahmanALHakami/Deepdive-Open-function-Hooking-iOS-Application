@@ -67,7 +67,7 @@ now you will see if some Apps Try to get access to the sensitive
 
 Have a fun Hacking 
 
-Abdulrahman AL-Hakami@d7xsa 
+Abdulrahman AL-Hakami
 
 
 
